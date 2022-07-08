@@ -15,6 +15,7 @@ and
 @software{Panchal_CICDDOS_attack_classification,
 author = {Panchal, Deven},
 title = {{CICDDOS attack classification}},
+url = {https://github.com/DevenPanchal/ddos-attack-types},
 version = {1.0.0}
 }
 ```
@@ -25,5 +26,5 @@ Panchal, D. (2022c). Deep Learning Based Co-operative and Co-ordinated Security 
 ```
 and
 ```
-Panchal, D. Network Slicing ML models (Version 1.0.0) [Computer software]
+Panchal, D. CICDDOS attack classification (Version 1.0.0) [Computer software]. https://github.com/DevenPanchal/ddos-attack-types
 ```
