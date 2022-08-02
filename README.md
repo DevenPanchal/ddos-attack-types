@@ -6,7 +6,7 @@ If you refer to this ML model, please cite the below.
 ```
 @unpublished{p6,
   author = "Deven Panchal",
-  title  = "Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase using Acumos Federation and Licensing",
+  title  = "Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase",
   year   = 2022
 }
 ```
@@ -22,7 +22,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022c). Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase using Acumos Federation and Licensing. Unpublished manuscript.
+Panchal, D. (2022c). Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase. Unpublished manuscript.
 ```
 and
 ```
