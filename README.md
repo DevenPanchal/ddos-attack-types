@@ -1,4 +1,5 @@
 # DDoS Attack Classification
+[![DOI](https://zenodo.org/badge/511923758.svg)](https://zenodo.org/doi/10.5281/zenodo.13836094)
 
 If you refer to this ML model, please cite the below.
 
