@@ -4,11 +4,17 @@ If you refer to this ML model, please cite the below.
 
 ### Bibtex:
 ```
-@unpublished{p6,
-  author = "Deven Panchal and Dan Musgrove and Isilay Baran and David Lu",
-  title  = "Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase",
-  year   = 2023
-}
+@INPROCEEDINGS{10368564,
+  author={Panchal, Deven and Musgrove, Dan and Baran, Isilay and Lu, David},
+  booktitle={2023 33rd International Telecommunication Networks and Applications Conference}, 
+  title={Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={118-123},
+  keywords={Training;Computational modeling;Companies;Writing;Denial-of-service attack;Data transfer;Data models;ML Model Sharing;Machine Learning;Deep Learning;GDPR;CCPA;Data Location;ML Model monetization;ML model licensing;ML model federation;Cooperative ML;Cooperative Security;DDoS;Open Source;AI4EU;Federated Learning},
+  doi={10.1109/ITNAC59571.2023.10368564}}
+
 ```
 and
 ```
@@ -22,7 +28,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D., Musgrove, D., Baran, I., & Lu, D. (2023). Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase. Unpublished manuscript.
+Panchal, D., Musgrove, D., Baran, I., & Lu, D. (2023). Sharing, Licensing, Buying, Selling and Operationalizing ML Models: A Deep Learning based Co-operative and Co-ordinated Security usecase. In 2023 33rd International Telecommunication Networks and Applications Conference (pp. 118-123).
 ```
 and
 ```
